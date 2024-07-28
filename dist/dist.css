@@ -60,7 +60,7 @@
   --sn-stylekit-grey-5: var(--highlight-color);
   --sn-stylekit-grey-4-opacity-variant: var(--current-line);
   --navigation-item-selected-background-color: var(--current-line);
-  --font-family: "TsangerJinKai04";
+  --font-family: "Noto Sans SC";
 }
 
 .sn-component .sk-panel .sk-panel-footer .left {

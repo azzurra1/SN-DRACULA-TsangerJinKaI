@@ -1,0 +1,18 @@
+{
+    "identifier": "ml.xnor.sn-theme-dracula01",
+    "name": "Dracula-CN",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "2.0.1", 
+    "description": "A Dracula theme for Standard Notes",
+    "url": "https://github.com/azzurra1/SN-DRACULA-TsangerJinKaI/dist/dist.css",
+    "marketing_url": "https://github.com/azzurra1/SN-DRACULA-TsangerJinKaI",
+    "thumbnail_url": "https://cdn.jsdelivr.net/gh/dracula/standard-notes/preview.png",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#bd93f9",
+        "foreground_color": "#bd93f9",
+        "border_color": "#bd93f9"
+    },
+    "statusBar": "dark-content"
+}
